@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://graph.org/file/57e167d50319ec4f26feb-71220d5d60eaed9355.jpg" />
+<img width="1200" height="475" alt="GHBanner" src="https://graph.org/file/64be7345957b6f771ca97-b91dd5b5f837ae9c7b.jpg" />
 </div>
 
  Mazaal AI - Multi-Agent Crypto Terminal & Contract Finder
