@@ -1,8 +1,4 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://graph.org/file/64be7345957b6f771ca97-b91dd5b5f837ae9c7b.jpg" />
-</div>
-
- Mazaal AI - Multi-Agent Crypto Terminal & Contract Finder
+# Mazaal AI - Multi-Agent Crypto Terminal & Contract Finder
 
 Selamat datang di **Mazaal AI**, aplikasi web interaktif canggih yang dirancang sebagai replika platform analitis terkemuka dengan perpaduan teknologi Multi-Agent AI dan integrasi data on-chain terdesentralisasi secara real-time.
 
