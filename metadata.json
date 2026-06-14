@@ -1,0 +1,6 @@
+{
+  "name": "Mazaal AI",
+  "description": "An interactive, highly-polished replica of the Mazaal AI landing page featuring a live CoinGecko terminal and a cooperative Multi-Agent Groq pipeline to analyze raw market trends, momentum, and strategy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
